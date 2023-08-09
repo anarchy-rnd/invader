@@ -1,2 +1,2 @@
-# invader
+# Invader
 Issue tracker for Invader
