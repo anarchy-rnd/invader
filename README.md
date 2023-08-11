@@ -1,2 +1,3 @@
 # Invader
-Issue tracker for Invader
+
+Issue tracker for Invader.
